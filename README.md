@@ -112,7 +112,7 @@ A complete **MERN Stack Ecommerce Platform** featuring:
 
 ```bash
 cd backend
-cp .env.example .env
+copy .env.example to .env
 ```
 
 ```bash
@@ -128,7 +128,7 @@ Backend URL: `http://localhost:8000`
 
 ```bash
 cd frontend
-cp .env.example .env
+cerate .env and add this belowed line
 ```
 
 ```env
