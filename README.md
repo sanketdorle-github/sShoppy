@@ -2,11 +2,33 @@
 
 ## 🎥 Project Demo Video
 
-[![Ecommerce Demo Video](/assets/dShoppy_clip.mp4)
+📸 Project Screenshots
 
-_Click above to watch the complete project demonstration_
+Below are some screenshots showcasing key features of the application. All images are located inside the assets/ folder.
 
----
+🏠 Home Page
+
+![Home Page](assets/home.png)
+
+🛍️ Product Listing
+![Product Listing](assets/products.png)
+
+❓ FAQ Section – 1
+![FAQ Section 1](assets/faq.png)
+
+❓ FAQ Section – 2
+![FAQ Section 1](assets/faq2.png)
+
+📩 Enquiry Page
+
+![Enquiry Page](assets/enquiry.png)
+
+🛠️ Admin – Product Management
+
+![Admin Product Management](assets/admin_product.png)
+
+➕ Admin – Add Product
+![Admin Add Product](assets/admin_product_add.png)
 
 ## 🧭 Approach
 
@@ -144,7 +166,6 @@ npm run dev
 Frontend URL: `http://localhost:5173`
 
 ---
-
 
 ## 🚀 Future Enhancements
 
